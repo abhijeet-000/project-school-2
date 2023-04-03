@@ -1,1 +1,7 @@
 $ echo "Welcome to project school" >> file2.txt
+
+
+
+stage 2:
+$ echo "Cyber security" >> file2.txt
+
