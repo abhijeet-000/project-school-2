@@ -1,0 +1,9 @@
+Q) Extract key from a image.
+
+Answer:
+unzip Challenge2.gif
+
+adds the answer into a text file known as key.txt
+
+Output:
+4994905d3464eb4e28cb9ab348efd97055cc54ec
